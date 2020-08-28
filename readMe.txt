@@ -6,3 +6,5 @@ I am using the Pygame module that is imported through the module_manager.py crea
 
 Short Cut:
 Press 3 on the keyboard to skip to next level!
+
+Watch the video walkthrough here "https://github.com/meglin20/TermProject/blob/master/Video%20Walkthrough.gif".
